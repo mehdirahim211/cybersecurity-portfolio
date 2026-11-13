@@ -57,5 +57,3 @@ The Auto Scaling Group could not be created because of environment restrictions.
 
 ## Project Evidence
 The project report contains architecture diagrams, AWS configuration screenshots and implementation results.
-
-A reviewed version of the report will be added as supporting evidence.
