@@ -55,6 +55,4 @@ I tested the security configurations to check whether they worked correctly.
 ## Project Evidence
 The project report includes configuration screenshots, security testing results and explanations of the controls implemented.
 
-Supporting evidence will be added after sensitive credentials have been removed.
-
 [View My Network Security Report](Network_Security_Report.pdf)
