@@ -55,5 +55,4 @@ I used Burp Suite to intercept and modify an HTTP request, demonstrating how wea
 
 ## Project Evidence
 My project report contains screenshots of completed OWASP Juice Shop challenges, testing results and vulnerability analysis.
-
-A reviewed version of the report will be added after sensitive session information has been removed.
+[View My Web Application Security Report](WebAppSec_Project_Report_B00174304_MR.pdf)
