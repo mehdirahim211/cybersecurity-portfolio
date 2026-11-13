@@ -57,3 +57,5 @@ The Auto Scaling Group could not be created because of environment restrictions.
 
 ## Project Evidence
 The project report contains architecture diagrams, AWS configuration screenshots and implementation results.
+
+[View My AWS Cloud Security Report](SecurityArch_Report_B00174304%20%281%29.pdf)
